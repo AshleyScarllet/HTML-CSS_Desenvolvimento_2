@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #e1eef7;
+}
+.organizaçao {
+    width: 90%;
+    padding: 20px;
+    background-color: #e1eef7;
+  }
+  .organizaçao img {
+    width: 15%;
+    margin-bottom: 10px;
+  }
